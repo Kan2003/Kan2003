@@ -1,29 +1,178 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://kanhavishwakarma.me)
-<h1 align="center">Hi 👋, I'm Kanha</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://plus.unsplash.com/premium_photo-1682145730713-34bba6d3d14a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+<div align="center">
+  <h1>👋 Hi, I'm Kanha Vishwakarma</h1>
+  <h3>🚀 Full Stack Developer | Frontend Specialist | React Enthusiast</h3>
+  <p>
+    <a href="https://kan2003.github.io/My_Portfolio/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-My%20Portfolio-blue?style=for-the-badge&logo=globe" />
+    </a>
+    <a href="https://www.linkedin.com/in/kanha-vishwakarma-3a6267225" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="mailto:kanhavishwakarma2003@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
+    </a>
+  </p>
+</div>
 
+---
 
-- 🌱 I’m currently learning **RactJS , NodeJS**
+## 🎯 About Me
 
-- 👨‍💻 All of my projects are available at [https://kanhavishwakarma.me](https://kanhavishwakarma.me)
+I'm a passionate **Full Stack Developer** with a strong focus on **Frontend Development**. I specialize in creating beautiful, responsive, and interactive web applications using modern technologies. With expertise in **React.js, Node.js, and the MERN stack**, I build scalable solutions that deliver exceptional user experiences.
 
-- 💬 Ask me about **react , Frontend**
+- 🌱 Currently mastering **React.js, Next.js, and Advanced Node.js**
+- 💻 Specializing in **Frontend Development** with focus on UI/UX
+- 🎨 Experienced with responsive design and modern CSS frameworks
+- 📱 Building mobile-responsive applications with **Flutter** and **React Native**
+- 🔧 Strong backend fundamentals with **Node.js, Express, and MongoDB**
+- 📈 Constantly learning and improving my craft
 
-- 📫 How to reach me **kanhavishwakarma2003@gmail.com**
+---
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1J-e9aeHzwWMlxCl0FcdigRjSWVywRqmlrGqoY64SQ44/edit?usp=drive_link](https://docs.google.com/document/d/1J-e9aeHzwWMlxCl0FcdigRjSWVywRqmlrGqoY64SQ44/edit?usp=drive_link)
+## 💼 Professional Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kanha-vishwakarma-3a6267225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanha-vishwakarma-3a6267225" height="30" width="40" /></a>
-<a href="https://instagram.com/kanha_2222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanha_2222" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kanhavishwakarm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanhavishwakarm1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kanha2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanha2003" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kanhavishwasluz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kanhavishwasluz" height="30" width="40" /></a>
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
+      <img src="https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/MongoDB-13AA52?logo=mongodb&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
+      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Design & Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌟 Key Strengths
+
+✨ **Frontend Development** - Creating modern, responsive UIs with React.js  
+🎨 **UI/UX Design** - Designing beautiful and functional interfaces  
+⚡ **Performance Optimization** - Building fast and efficient applications  
+🔄 **Full Stack Development** - Seamless integration from frontend to backend  
+📚 **Problem Solving** - Analytical thinking and creative solutions  
+🤝 **Collaboration** - Strong communication and teamwork skills  
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <a href="https://github.com/kan2003" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-kan2003-black?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+Check out my repositories on [GitHub](https://github.com/kan2003) to see my latest projects and contributions!
+
+---
+
+## 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://www.leetcode.com/kanha2003" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.hackerrank.com/kanhavishwakarm1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/kanhavishwasluz" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-1F8ACB?logo=geeksforgeeks&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kan2003&show_icons=true&locale=en&layout=compact" alt="kan2003" /></p>
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/kanha-vishwakarma-3a6267225" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
+  </a>
+  <a href="https://instagram.com/kanha_2222" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
+  </a>
+  <a href="https://www.hackerrank.com/kanhavishwakarm1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="50" />
+  </a>
+  <a href="https://www.leetcode.com/kanha2003" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/kanhavishwasluz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="50" />
+  </a>
+  <a href="https://twitter.com/kanha_2003" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" />
+  </a>
+</p>
+
+---
+
+## 📚 Currently Learning & Improving
+
+- 🎓 Advanced React patterns and state management (Redux, Context API)
+- 🔧 Full-stack development with Next.js and TypeScript
+- 🗄️ Database optimization and system design
+- 🎨 Advanced CSS and animation techniques
+- ☁️ Cloud deployment and DevOps basics
+
+---
+
+## 📄 Resume & Portfolio
+
+- **Portfolio**: [kan2003.github.io/My_Portfolio](https://kan2003.github.io/My_Portfolio/)
+- **Resume**: [View My Experience](https://drive.google.com/file/d/1IWUfwvrO1ZfhDZ5Ij5LDrxFoRGo_CDe0/view?usp=sharing)
+- **Email**: kanhavishwakarma2003@gmail.com
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kan2003&style=flat-square&color=blue" alt="Profile Views" />
+  <p>⭐ Feel free to star my repositories if you find them helpful!</p>
+</div>
+
+---
+
+**Last Updated**: May 2026 | Kanha Vishwakarma © 2026
